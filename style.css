@@ -1,0 +1,29 @@
+h1{
+    color: green;
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+    color:deepskyblue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style-image: url('images/point.jpg');
+}
+
+ol{
+    list-style-type:decimal;
+}
+
+a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+a :hover{
+    background-color: aqua;
+    color: #ffff;
+}
